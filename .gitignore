@@ -162,3 +162,5 @@ cython_debug/
 # OS generated
 .DS_Store
 .DS_Store?
+
+.hscfg
