@@ -48,15 +48,18 @@ We can specify data attributes as per our need but this has limited usage as the
 ---
 ## Code Structure:
 
-### Project Jupyter Notebooks:
-- [EnergyAnalysis.ipynb](./notebooks/EnergyAnalysis.ipynb) : supply-demand gap analysis
-- [Supply_Visualization_class.ipynb](./notebooks/Supply_Visualization_class.ipynb) : solar supply analysis & visualizations
-- [Demand_Visualization.ipynb](./notebooks/Demand_Visualization.ipynb) : energy demand analysis
+### Project Jupyter Notebook:
+- [Solar.ipynb](./notebooks/Solar.ipynb) has the following parts:
+	1. Supply Visualization
+ 	2. Demand Visualization
+  	3. Energy Visualization (Supply-Demand Gap Analysis)
+  	4. Functionality and Coverage Testing
 ---
 
 ## File Structure:
 1. [notebooks](./notebooks):
-	- Contains all the notebooks for analysis and visualizations
+	- Contains the notebook [Solar.ipynb](./notebooks/Solar.ipynb) for analysis and visualizations
+ 	- Energy analysis code inside [Energy_Analysis.py](./notebooks/Energy_Analysis.py)
     - We fetched and analysed data for supply visualizations using the HSDS on the fly
     - For demand and gap analysis we preprocessed and downloaded the csv files as per our requirements
 2. [raw_data](./raw_data/):
