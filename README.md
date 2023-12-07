@@ -54,6 +54,7 @@ We can specify data attributes as per our need but this has limited usage as the
  	2. Demand Visualization
   	3. Energy Visualization (Supply-Demand Gap Analysis)
   	4. Functionality and Coverage Testing
+- [Energy_Analysis.py](./notebooks/Energy_Analysis.py): Supply-Demand Gap Analysis base code 
 ---
 
 ## File Structure:
