@@ -58,7 +58,7 @@ We can specify data attributes as per our need but this has limited usage as the
 
 ## File Structure:
 1. [notebooks](./notebooks):
-	- Contains the notebook [Solar.ipynb](./notebooks/Solar.ipynb) for analysis and visualizations
+	- Contains the notebook [Solar.ipynb](./notebooks/Solar.ipynb) for analysis, visualizations, and testing
  	- Energy analysis code inside [Energy_Analysis.py](./notebooks/Energy_Analysis.py)
     - We fetched and analysed data for supply visualizations using the HSDS on the fly
     - For demand and gap analysis we preprocessed and downloaded the csv files as per our requirements
