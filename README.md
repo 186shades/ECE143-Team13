@@ -40,7 +40,7 @@ hs_api_key = 3K3JQbjZmWctY0xmIfSYvYgtIcM3CN0cb1Y2w9bf
 
 *The example API key here is for demonstation and is rate-limited per IP. To get your own API key, visit https://developer.nrel.gov/signup/*
 
-You can also add the above contents to a configuration file at ~/.hscfg
+You can also add the above contents to a configuration file at ~/.hscfg (This file should be in the [notebooks](./notebooks) folder)
 
 Another way to fetch the data is to directly download csv files from the NSRDB website using https://nsrdb.nrel.gov/data-viewer . 
 We can specify data attributes as per our need but this has limited usage as there is download limitation on the size of the file.
