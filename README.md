@@ -64,7 +64,7 @@ We can specify data attributes as per our need but this has limited usage as the
     - For demand and gap analysis we preprocessed and downloaded the csv files as per our requirements
 2. [raw_data](./raw_data/):
     - Our supply and demand data files used for gap analysis can be found here
-3. [OutputImages](./raw_data/):
+3. [OutputImages](./OutputImages/):
      - Contains the graphs and images generated from analysis
 
 ---
